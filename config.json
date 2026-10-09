@@ -1,0 +1,14 @@
+{
+  "mode": "hold",
+  "hotkey": "right ctrl",
+  "quit_hotkey": "ctrl+alt+shift+g",
+  "model": "gigaam-v3-e2e-rnnt",
+  "input_device": null,
+  "sample_rate": 16000,
+  "max_seconds": 120,
+  "remove_fillers": true,
+  "capitalize_first": true,
+  "trailing_space": true,
+  "restore_clipboard": true,
+  "paste_delay": 0.12
+}
